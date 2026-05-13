@@ -1,1 +1,21 @@
 /docs/
+/.vscode/
+/.opencode/
+/.agents/
+/.claude/
+skills-lock.json
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+*.tsbuildinfo
+
+# Environment
+.env
+
+# Package manager
+pnpm-debug.log*
+pnpm-workspace.yaml
+
